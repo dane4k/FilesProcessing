@@ -15,7 +15,7 @@ public class Main {
         n_upper_lower = CountUpperLower(name);
         System.out.println("Количество строчных букв:");
         System.out.println(n_upper_lower[0]);
-        System.out.println("Количество строчных букв:");
+        System.out.println("Количество заглавных букв:");
         System.out.println(n_upper_lower[1]);
         System.out.println("Сумма заглавных и строчных букв:");
         System.out.println(n_upper_lower[2]);
